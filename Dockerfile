@@ -25,3 +25,6 @@ CMD ["python", "app.py"]
 #docker tag my-bike-rental-application:v1 aliirshadurrahman/my-bike-rental-application:v1
 #docker push aliirshadurrahman/my-bike-rental-application:v1
 #docker run --network=host -p 7860:7860 aliirshadurrahman/my-bike-rental-application:v1
+
+
+##Open the app on http://localhost:7860
